@@ -1,0 +1,12 @@
+{
+  "name": "stitcher",
+  "homepage": "https://github.com/timfpark/stitcher",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+      "async": "0.2.x",
+      "nitrogen": "0.0.x"
+  },
+  "devDependencies": {
+  }
+}
